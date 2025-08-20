@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning about technology my whole life, recently diving headfirst into frontend development - I am eager to hone my skills in order to contribute to the industry that holds my passion. I am dedicated to rapid improvement and to create user experiences that are both elegant and stylish.
+I've been passionate about technology my whole life and after diving headfirst into frontend development, I have proven dedicated to learning the applicable skills necessary in order to succeed. I am dedicated to rapid improvement and to create user experiences that are both elegant and stylish.
 
 * 🌍  I'm based in Wellington, CO
 * ✉️  You can contact me at [hinshaw.mckade@gmail.com](mailto:hinshaw.mckade@gmail.com)
